@@ -3,6 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgrifo.exe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-grifo-5908b924a)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgrifo465@hotmail.com)
 
 ![Luiz Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFGrifo&show_icons=true&theme=tokyonight)
 
