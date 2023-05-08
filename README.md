@@ -7,7 +7,7 @@
 
 - 👨‍💻 Focado na area de back-end
 - 🤖 Futuro Cientista de Dados
-- 🌱 Estudando Java e C
+- 🌱 Estudando Java e Python
 
 ![Luiz Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFGrifo&show_icons=true&theme=tokyonight)
 
