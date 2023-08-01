@@ -28,9 +28,8 @@
 
 </br>
 
-</div>
-
-
 "A tecnologia é como um lápis na mão das mentes criativas - uma ferramenta poderosa que pode transformar o mundo e moldar o futuro."
 
 </br>
+
+</div>
