@@ -9,8 +9,6 @@
 - 🤖 Futuro Cientista de Dados
 - 🌱 Estudando Java e Python
 
-![Luiz Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFGrifo&show_icons=true&theme=tokyonight)
-
 ## Habilidades e experiências em linguagens e ferramentas:
 
 <div style="display: inline_block"><br/>
