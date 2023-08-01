@@ -1,7 +1,7 @@
 
-# Welcome to my profile ✌️
-
 <div align="center">
+
+# Welcome to my profile ✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgrifo.exe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-grifo-5908b924a)
@@ -22,13 +22,14 @@
     <img align="center" alt"Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 </div>
 
-</div>
-
 </br>
 
 ![Luiz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFGrifo&layout=compact)
 
 </br>
+
+</div>
+
 
 "A tecnologia é como um lápis na mão das mentes criativas - uma ferramenta poderosa que pode transformar o mundo e moldar o futuro."
 
